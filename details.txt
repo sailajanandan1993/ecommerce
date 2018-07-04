@@ -1,0 +1,9 @@
+Super admin
+email : ismailghallou@hotmail.com
+password : ismail
+
+some users
+email : anas@anas.com
+password : anas
+
+For wamp users, please add "root" as user of the db.
